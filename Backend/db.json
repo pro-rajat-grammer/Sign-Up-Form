@@ -1,0 +1,15 @@
+{
+  "employee": [
+    {
+      "id": "d449",
+      "name": "Rajat Naroji",
+      "pass": "1234",
+      "email": "rajat@gmail.com",
+      "gender": "male",
+      "age": "11-25",
+      "comment": "this is sign up project",
+      "color": "#691717",
+      "date": "2024-01-30"
+    }
+  ]
+}
